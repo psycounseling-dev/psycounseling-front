@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/psycounseling-front/static/css/main.98f64f6b.chunk.css",
+    "main.js": "/psycounseling-front/static/js/main.29a1095f.chunk.js",
+    "main.js.map": "/psycounseling-front/static/js/main.29a1095f.chunk.js.map",
+    "runtime-main.js": "/psycounseling-front/static/js/runtime-main.0b912c60.js",
+    "runtime-main.js.map": "/psycounseling-front/static/js/runtime-main.0b912c60.js.map",
+    "static/js/2.dcbe675f.chunk.js": "/psycounseling-front/static/js/2.dcbe675f.chunk.js",
+    "static/js/2.dcbe675f.chunk.js.map": "/psycounseling-front/static/js/2.dcbe675f.chunk.js.map",
+    "index.html": "/psycounseling-front/index.html",
+    "precache-manifest.45a722eec5ac7e6027a13cd3cccb3352.js": "/psycounseling-front/precache-manifest.45a722eec5ac7e6027a13cd3cccb3352.js",
+    "service-worker.js": "/psycounseling-front/service-worker.js",
+    "static/css/main.98f64f6b.chunk.css.map": "/psycounseling-front/static/css/main.98f64f6b.chunk.css.map",
+    "static/js/2.dcbe675f.chunk.js.LICENSE.txt": "/psycounseling-front/static/js/2.dcbe675f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b912c60.js",
+    "static/js/2.dcbe675f.chunk.js",
+    "static/css/main.98f64f6b.chunk.css",
+    "static/js/main.29a1095f.chunk.js"
+  ]
+}
