@@ -44,12 +44,25 @@
     }
 
     .top-nav {
-        height: 60px;
+       
         background: linear-gradient(360deg, #04583A 0%, rgba(4, 88, 58, 0.8) 117.36%);
+        .navbar{
+            .navbar-nav{
+                .nav-link{
+                    font-weight: bold;
+                    font-size: 14px;
+                    line-height: 18px;
+                    color: #ffffff;
+                    display: inline;
+                    text-transform: uppercase;
+                }
+            }
+        }
+       
 
         .top-navigation {
             height: 100%;
-            padding:0 50px;
+            padding:0;
             list-style: none;
             display: flex;
             justify-content: space-between;

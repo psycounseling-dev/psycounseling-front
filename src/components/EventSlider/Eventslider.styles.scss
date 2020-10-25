@@ -1,0 +1,40 @@
+.event-slider-wrapper {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: content;
+    align-items: center;
+
+    .carousel {
+        height: 100%;
+        width: 100%;
+        background: #03382595;
+        color: #ffffff;
+
+        .carousel-inner {
+            height: 100%;
+        }
+
+        .carousel-item {
+            width: 100%;
+            height: 100%;
+            text-align: center;
+            font-family: Merriweather;
+            font-style: normal;
+            font-weight: 900;
+            font-size: 28px;
+            line-height: 35px;
+
+
+            .title {
+                margin-top: 20%;
+            }
+
+            .text {}
+
+            .date {
+                margin-top: 20%;
+            }
+        }
+    }
+}
