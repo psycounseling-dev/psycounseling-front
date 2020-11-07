@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/psycounseling-front/precache-manifest.474c05c48db64a39c9d2a2e85ae9c13e.js"
+  "/psycounseling-front/precache-manifest.4cdcbe36499c9e0e52b26b17f38eeb4a.js"
 );
 
 self.addEventListener('message', (event) => {
