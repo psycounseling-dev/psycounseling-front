@@ -40,7 +40,6 @@ const CardBlock = ({
     </div>
   );
 };
-
 CardBlock.propTypes = {
   // bla: PropTypes.string,
 };
