@@ -1,0 +1,30 @@
+.main-activites {
+    background-image: url("./../../../assets/img/bg_s_3.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 60px 0;
+
+    .activites-list {
+        padding: 40px;
+        border: 2px solid #01432B;
+        box-sizing: border-box;
+
+        .list-title {
+            font-weight: bold;
+            font-size: 28px;
+            text-align: center;
+        }
+
+        ul {
+            li {
+                font-style: normal;
+                font-weight: normal;
+                font-size: 16px;
+                line-height: 30px;
+            }
+        }
+    }
+
+
+}
