@@ -23,6 +23,7 @@ class Dummdata {
             {name:"event2", date:"30.11.2020", text:"Placeholder Назва подіі", href:"/"   },
             {name:"event3", date:"30.10.2020", text:"Placeholder Назва подіі", href:"/"   },
             {name:"event4", date:"30.10.2020", text:"Placeholder Назва подіі", href:"/"   },
+            {name:"event4", date:"30.10.2020", text:"Placeholder Назва подіі", href:"/"   },
         ]
 
         
