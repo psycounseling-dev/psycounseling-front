@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fcd26f4db3262f7ca682e5fb816ae302",
+    "revision": "c7267bd5aa51efa3c9b7bff27a47a803",
     "url": "/psycounseling-front/index.html"
   },
   {
-    "revision": "bd458378682a726d0a95",
-    "url": "/psycounseling-front/static/css/main.8ee5884e.chunk.css"
+    "revision": "f8d4ed100e6955825a38",
+    "url": "/psycounseling-front/static/css/main.c4433905.chunk.css"
   },
   {
-    "revision": "b0304574343137caefce",
-    "url": "/psycounseling-front/static/js/2.e95089f9.chunk.js"
+    "revision": "a0b82ce4d2c2981c8dd1",
+    "url": "/psycounseling-front/static/js/2.4fdb5457.chunk.js"
   },
   {
     "revision": "8a137f586fcebb1a370343eb47b7677c",
-    "url": "/psycounseling-front/static/js/2.e95089f9.chunk.js.LICENSE.txt"
+    "url": "/psycounseling-front/static/js/2.4fdb5457.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bd458378682a726d0a95",
-    "url": "/psycounseling-front/static/js/main.53e66752.chunk.js"
+    "revision": "f8d4ed100e6955825a38",
+    "url": "/psycounseling-front/static/js/main.43f802db.chunk.js"
   },
   {
     "revision": "c2fee972e8053ac6f3ac",

@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/psycounseling-front/static/css/main.8ee5884e.chunk.css",
-    "main.js": "/psycounseling-front/static/js/main.53e66752.chunk.js",
-    "main.js.map": "/psycounseling-front/static/js/main.53e66752.chunk.js.map",
+    "main.css": "/psycounseling-front/static/css/main.c4433905.chunk.css",
+    "main.js": "/psycounseling-front/static/js/main.43f802db.chunk.js",
+    "main.js.map": "/psycounseling-front/static/js/main.43f802db.chunk.js.map",
     "runtime-main.js": "/psycounseling-front/static/js/runtime-main.0b912c60.js",
     "runtime-main.js.map": "/psycounseling-front/static/js/runtime-main.0b912c60.js.map",
-    "static/js/2.e95089f9.chunk.js": "/psycounseling-front/static/js/2.e95089f9.chunk.js",
-    "static/js/2.e95089f9.chunk.js.map": "/psycounseling-front/static/js/2.e95089f9.chunk.js.map",
+    "static/js/2.4fdb5457.chunk.js": "/psycounseling-front/static/js/2.4fdb5457.chunk.js",
+    "static/js/2.4fdb5457.chunk.js.map": "/psycounseling-front/static/js/2.4fdb5457.chunk.js.map",
     "index.html": "/psycounseling-front/index.html",
-    "precache-manifest.4cdcbe36499c9e0e52b26b17f38eeb4a.js": "/psycounseling-front/precache-manifest.4cdcbe36499c9e0e52b26b17f38eeb4a.js",
+    "precache-manifest.0f9866e031ae227c7115fb6686cdf8f5.js": "/psycounseling-front/precache-manifest.0f9866e031ae227c7115fb6686cdf8f5.js",
     "service-worker.js": "/psycounseling-front/service-worker.js",
-    "static/css/main.8ee5884e.chunk.css.map": "/psycounseling-front/static/css/main.8ee5884e.chunk.css.map",
-    "static/js/2.e95089f9.chunk.js.LICENSE.txt": "/psycounseling-front/static/js/2.e95089f9.chunk.js.LICENSE.txt",
+    "static/css/main.c4433905.chunk.css.map": "/psycounseling-front/static/css/main.c4433905.chunk.css.map",
+    "static/js/2.4fdb5457.chunk.js.LICENSE.txt": "/psycounseling-front/static/js/2.4fdb5457.chunk.js.LICENSE.txt",
     "static/media/Jumbo.scss": "/psycounseling-front/static/media/bg1.c375dfe6.png",
     "static/media/bg_action1.png": "/psycounseling-front/static/media/bg_action1.eca0422f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0b912c60.js",
-    "static/js/2.e95089f9.chunk.js",
-    "static/css/main.8ee5884e.chunk.css",
-    "static/js/main.53e66752.chunk.js"
+    "static/js/2.4fdb5457.chunk.js",
+    "static/css/main.c4433905.chunk.css",
+    "static/js/main.43f802db.chunk.js"
   ]
 }
