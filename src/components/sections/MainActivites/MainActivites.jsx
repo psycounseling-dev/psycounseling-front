@@ -6,7 +6,7 @@ const MainActivites = ({ list, title }) => (
   <section className="section-block main-activites">
     <div className="container">
       <div className="activites-list">
-        <div className="list-title">{title && title}</div>
+        <div className="title-default">{title && title}</div>
         <ul>{list && list.map((li, idx) => <li key={idx}>{li}</li>)}</ul>
       </div>
     </div>

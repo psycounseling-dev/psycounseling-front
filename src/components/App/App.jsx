@@ -5,6 +5,7 @@ import ActionContainer from "./../ActionContainer";
 import "./App.css";
 import "./../../assets/styles/index.scss";
 import MainActivites from "../sections/MainActivites/MainActivites";
+import NewsSection from "../sections/NewsSection";
 
 const list = [
   "Прийняття участі у розробці законопроектів, стандартів і вимог, що стосуються психологічного консультування та травматерапії",
@@ -26,7 +27,11 @@ const App = () => {
       <Jumbo />
       <main>
         <ActionContainer />
-        <MainActivites list={list} title={"Основні напрями діяльності Асоціації"}/>
+        <MainActivites
+          list={list}
+          title={"Основні напрями діяльності Асоціації"}
+        />
+        <NewsSection />
       </main>
     </div>
   );
